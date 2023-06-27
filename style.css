@@ -1,0 +1,10 @@
+body {
+    background-image: url(https://ssl.gstatic.com/ui/v1/icons/mail/themes/desk/bg2_1920x1200.jpg);
+    color: white;
+    width: 90%;
+    margin: auto;
+    padding-top: 5%;
+}
+img {
+    vertical-align: middle;
+}
