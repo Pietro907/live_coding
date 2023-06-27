@@ -8,3 +8,12 @@ body {
 img {
     vertical-align: middle;
 }
+#counter_number {
+    background-color: orange;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+}
